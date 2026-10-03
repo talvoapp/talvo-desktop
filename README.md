@@ -203,8 +203,7 @@ This software is proprietary and confidential. Unauthorized copying, distributio
 
 | Channel | Details |
 |---------|---------|
-| **Email** | info@tech-company.com |
-| **Website** | https://talvo.com |
+| **Website** | [Talvo](https://4gels.github.io/talvo-website) |
 | **Issues** | [GitHub Issues](https://github.com/talvoapp/talvo-desktop/issues) |
 | **Releases** | [GitHub Releases](https://github.com/talvoapp/talvo-desktop/releases) |
 
